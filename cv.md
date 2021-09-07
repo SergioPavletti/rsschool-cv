@@ -1,11 +1,10 @@
 # Pavlov Sergey Valerievich #
----
 #### Curiculum Vitae ####
-
+---
 ## My Contacts ##
-**Phone:** +7 902 295 12 72
-**e-mail:** [you2me@yandex.ru](you2me@yandex.ru)
-**github:** [SergioPavletti](https://github.com/SergioPavletti)
+**Phone, Whatsapp, Viber:** +7 902 295 12 72 /
+**e-mail:** [you2me@yandex.ru](you2me@yandex.ru) /
+**github:** [SergioPavletti](https://github.com/SergioPavletti), [enclave-public](https://github.com/enclave-public) /
 
 ## My Goals and Priorities ##
 * Professional fulfillment and developing in my interest's spheres, such as IT.
