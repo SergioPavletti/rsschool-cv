@@ -1,10 +1,9 @@
 # Pavlov Sergey Valerievich #
----
 #### Curiculum Vitae ####
-
+---
 ## My Contacts ##
-**Phone:** +7 902 295 12 72
-**e-mail:** [you2me@yandex.ru](you2me@yandex.ru)
+**Phone:** +7 902 295 12 72 \
+**e-mail:** [you2me@yandex.ru](you2me@yandex.ru) \
 **github:** [SergioPavletti](https://github.com/SergioPavletti)
 
 ## My Goals and Priorities ##
